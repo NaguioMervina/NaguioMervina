@@ -20,3 +20,9 @@
 </td>
 </tr>
 </table>
+
+## Most Used Languages
+
+<p align="center">
+  <img src="metrics.languages.svg" alt="Most used languages" />
+</p>
