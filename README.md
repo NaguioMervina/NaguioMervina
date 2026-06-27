@@ -10,7 +10,7 @@
 <br />
 <strong>Mervin Naguio</strong>
 <br />
-<em>ad astra per aspera</em>
+<em>Full Stack Web Developer</em>
 <br />
 <br />
 <a href="https://github.com/NaguioMervina?tab=repositories">View my repositories</a>
