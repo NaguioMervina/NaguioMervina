@@ -23,10 +23,10 @@ jobs:
           committer_message: "chore: update ${filename}"
           template: classic
           base: header, activity, community, repositories, metadata
-          config_order: base.header, base.repositories, base.activity+community, isocalendar
+          config_order: base.header, base.repositories, base.activity+community
           output_condition: skip-if-only-metadata-changed
           config_timezone: Asia/Manila
-          plugin_isocalendar: yes
+          plugin_habits: no
 
       - name: Update most used languages card
         uses: lowlighter/metrics@latest
